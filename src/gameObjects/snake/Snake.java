@@ -10,7 +10,6 @@ public class Snake {
     private boolean alive;
     private LinkedList<Position> snakeBody;
 
-
     public Snake(){
 
         snakeBody = new LinkedList<>();
